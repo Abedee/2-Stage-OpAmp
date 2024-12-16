@@ -1,6 +1,6 @@
 # 2-Stage-OpAmp
 
-With Regards Abdullah
+With Regards Abdullah,
 
 This project is about designing a Two-Stage Op-Amp that aims to provide a cookbook for choosing the device parameters according to the design requirements provided to you. This project is designed in Cadence virtuoso using 180nm PDK.
 
